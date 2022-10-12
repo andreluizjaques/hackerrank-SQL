@@ -9,6 +9,9 @@
   <li><a href="https://github.com/andreluizjaques/hackerrank-SQL/blob/main/Higher%20Than%2075%20Marks.sql">Higher Than 75 Marks</a></li>
   <li><a href="https://github.com/andreluizjaques/hackerrank-SQL/blob/main/Employee%20Salaries.sql">Employee Salaries</a></li>
   <li><a href="https://github.com/andreluizjaques/hackerrank-SQL/blob/main/Weather%20Observation%20Station%2012.sql">Weather Observation Station 12</a></li>
+  <li><a href="https://github.com/andreluizjaques/hackerrank-SQL/blob/main/Weather%20Observation%20Station%2011.sql">Weather Observation Station 11</a></li>
+  <li><a href="https://github.com/andreluizjaques/hackerrank-SQL/blob/main/Weather%20Observation%20Station%2010.sql">Weather Observation Station 10</a></li>
+  <li><a href="https://github.com/andreluizjaques/hackerrank-SQL/blob/main/Weather%20Observation%20Station%209.sql">Weather Observation Station 9</a></li>
 </ul>
 
 ## Follow me
